@@ -1,4 +1,4 @@
-# FCM-AD
+# Empirical study of outlier impact in classification context
 Official Repo of the paper "Empirical study of outlier impact in classification context"
 
 ## Reqquirements
