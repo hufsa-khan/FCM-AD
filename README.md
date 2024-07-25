@@ -17,7 +17,7 @@ python3 training.py
 ## Test
 
 
-##Citation
+## Citation
 If you find FCM-AD is useful in your research, please cite our paper:
 ```
 py@inproceedings{fu2023learning,
