@@ -1,7 +1,7 @@
 # Empirical study of outlier impact in classification context
 Official Repo of the paper "Empirical study of outlier impact in classification context"
 
-## Reqquirements
+## Requirements
  python 3.11.4  
  Tensorflow 2.13.0  
  Keras 2.13.1  
