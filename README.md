@@ -2,9 +2,9 @@
 Official Repo of the paper "Empirical study of outlier impact in classification context"
 
 ## Reqquirements
- python 3  
- Tensorflow 1.6.0  
- Keras 2.2.0  
+ python 3.11.4  
+ Tensorflow 2.13.0  
+ Keras 2.13.1  
  Opencv-python 3.4.2  
 
 
