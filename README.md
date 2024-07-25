@@ -5,7 +5,7 @@ Official Repo of the paper "Empirical study of outlier impact in classification 
  python 3.11.4  
  Tensorflow 2.13.0  
  Keras 2.13.1  
- Opencv-python 3.4.2  
+ 
 
 
 ## Train
@@ -23,8 +23,9 @@ If you find FCM-AD is useful in your research, please cite our paper:
 py@inproceedings{fu2023learning,
   title={Empirical study of outlier impact in classification context},
   author={Khan, Hufsa and Rasheed, Muhammad Tahir and Zhang, Shengli and Wang, Xizhao and Liu, Han},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={22252--22261},
+  journal={Expert Systems with Applications },
+  volume={---},
+  pages={---},
   year={2024}
 }
 ```
