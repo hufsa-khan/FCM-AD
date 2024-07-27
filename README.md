@@ -23,7 +23,7 @@ If you find FCM-AD is useful in your research, please cite our paper:
 py@inproceedings{khan2024,
   title={Empirical study of outlier impact in classification context},
   author={Khan, Hufsa and Rasheed, Muhammad Tahir and Zhang, Shengli and Wang, Xizhao and Liu, Han},
-  journal={Expert Systems with Applications},
+  journal={---},
   volume={---},
   pages={---},
   year={2024}
